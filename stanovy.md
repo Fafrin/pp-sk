@@ -15,38 +15,23 @@
 
 ##### Čl. 2 Poslání a programové cíle 
 
-
 (1) Cílem Slovenské pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu. 
-
-
 
 (2) Slovenská pirátská strana chce svou politikou prosazovat a podporovat
 
 *  a) svobodný přístup jednotlivců k informacím, 
-
 *  b) svobodu slova a vyjadřování, 
-
 *  c) svobodná díla, software a standardy,
-
 *  d) nezávislost soudů a státních zastupitelství na státu,
-
 *  e) transparentní nakládání s příjmy z kopírovacích a podobných poplatků a omezení nebo zrušení takových poplatků,
-
 *  f) demokracii a maximální zapojení veřejnosti do rozhodování,
-
 *  g) transparentní výběrová řízení ve veřejném sektoru, 
-
 *  h) podporu vzdělávání a vědeckých institucí. 
-
-
 
 (3) Slovenská pirátská strana chce všemi zákonnými prostředky bojovat proti
 
 *  a) zneužívání zákonů k omezování svobody,
-
 *  b) cenzuře, násilí, rasismu, strachu, nejistotě a pochybám ve společnosti a proti potlačování lidských práv.
-
-
 
 ## Členové strany a registrovaní příznivci
 
@@ -336,6 +321,8 @@
 (2) Nebude-li přijato žádné rozhodnutí o způsobu naložení s majetkovým zůstatkem, připadá tento státu.
 
 ##### Čl. 17 Přechodná a závěrečná ustanovení
+
+(1) Zmocněnec přípravného výboru svolá ustavující zasedání celostátního fóra do 60 dnů od registrace strany. 
 
 (1) Republikové předsednictvo
 
