@@ -99,10 +99,9 @@
 (1) Orgány strany jsou
 
 *  a) celostátní fórum, 
-*  b) republikový výbor, 
+*  b) republikový výbor, pokud je zřízen
 *  c) republikové předsednictvo, 
 *  d) komise a odbory. 
-
 
 (2) Organizační jednotky strany jsou oblastní sdružení vytvořená na územním principu.
 
@@ -203,7 +202,7 @@
 
 (1) Republikový výbor upřesňuje předpisy přijaté celostátním fórem, připravuje podklady pro celostátní fórum a rozhoduje o některých dalších, zejména odborných záležitostech.
 
-(2) Republikový výbor se skládá ze čtrnácti členů volených po jednom krajskými fóry a dalších deseti až třiceti členů volených celostátním fórem.
+(2) Republikový výbor se skládá z patnácti až třicetipěti členů volených celostátním fórem.
 
 (3) Republikový výbor se svolává podle potřeby, na zasedání však nejméně jednou za tři měsíce. Zasedání republikového výboru, které nesvolává předseda strany, musí být řádně oznámeno.
 
@@ -333,4 +332,6 @@
 *  a) svolává ustavující fóra oblastních sdružení, která nevznikla nebo zanikla,
 *  b) rozhoduje o členství a plní další úkoly oblastního předsednictva v místech, kde žádná oblastní sdružení nepůsobí.
 
-(5) Oblastní sdružení mohou předpisem zřídit vlastní rozhodčí orgán s oblastní působností rozhodující v první instanci; v odvolacích řízeních rozhoduje rozhodčí orgán nadřízené oblasti nebo rozhodčí komise strany.
+(5) Celostátní fórum může republikový výbor zřídit zásadním rozhodnutím; do zřízení republikového výboru vykonává jeho pravomoci celostátní fórum přiměřeně.
+
+(6) Oblastní sdružení mohou předpisem zřídit vlastní rozhodčí orgán s oblastní působností rozhodující v první instanci; v odvolacích řízeních rozhoduje rozhodčí orgán nadřízené oblasti nebo rozhodčí komise strany.
