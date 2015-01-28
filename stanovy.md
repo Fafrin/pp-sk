@@ -1,26 +1,26 @@
-# Stanovy České pirátské strany 
+# Stanovy Slovenské pirátské strany 
 
 
 ## Základní ustanovení
 
 ##### Čl. 1 Úvodní ustanovení 
 
-(1) Název politické strany je Česká pirátská strana. 
+(1) Název politické strany je Slovenské pirátská strana. 
 
 (2) Zkratka je Piráti. 
 
-(3) Sídlem České pirátské strany je Praha.
+(3) Sídlem Slovenské pirátské strany je Bratislava.
 
-(4) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů (dále jen ZPS), a působí v České republice.
+(4) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů (dále jen ZPS), a působí ve Slovenské republice.
 
 ##### Čl. 2 Poslání a programové cíle 
 
 
-(1) Cílem České pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu. 
+(1) Cílem Slovenské pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu. 
 
 
 
-(2) Česká pirátská strana chce svou politikou prosazovat a podporovat
+(2) Slovenská pirátská strana chce svou politikou prosazovat a podporovat
 
 *  a) svobodný přístup jednotlivců k informacím, 
 
@@ -40,7 +40,7 @@
 
 
 
-(3) Česká pirátská strana chce všemi zákonnými prostředky bojovat proti
+(3) Slovenská pirátská strana chce všemi zákonnými prostředky bojovat proti
 
 *  a) zneužívání zákonů k omezování svobody,
 
@@ -52,34 +52,22 @@
 
 ##### Čl. 3 Členství 
 
-
 (1) Členem strany může být občan, který
 
 *  a) je starší 18 let, 
-
 *  b) je plně způsobilý k právním úkonům, 
-
-*  c) není členem jiné politické strany nebo politického hnutí, 
+*  c) není členem jiné politické strany nebo politického hnutí,
 *  d) souhlasí s programovými cíli České pirátské strany,
-
 *  e) se zaváže podporovat základní programové cíle uvedené v čl. 2 a
-
 *  f) nestanovil-li republikový výbor jinak, nebyl ze strany v minulosti vyloučen.
-
-
 
 (2) Do přihlášky člen uvede
 
 *  a) osobní údaje, které jsou předmětem evidence, 
-
 *  b) zda se v minulosti ucházel o členství v České pirátské straně a zda byl jejím členem,
-
 *  c) zda byl v minulosti členem jiné politické strany nebo politického hnutí včetně časového upřesnění členství v jiné politické straně nebo politickém hnutí, 
-
 *  d) zda byl pravomocně odsouzen za úmyslný trestný čin, 
-
 *  e) zda je trestně stíhán. 
-
 
 (3) Vyplněná a podepsaná přihláška se podá oblastnímu sdružení v místě trvalého pobytu, výjimečně v odůvodněných případech jinému oblastnímu sdružení. O přijetí za člena rozhoduje předsednictvo oblastního sdružení zpravidla za přítomnosti žadatele; zamítnutí přihlášky nutno zdůvodnit. Členství vzniká po zaplacení členského příspěvku. 
 
@@ -88,40 +76,28 @@
 (5) Členství zaniká
 
 *  a) nezaplacením členského příspěvku ve stanovené lhůtě, 
-
 *  b) řádným oznámením předsednictvu sdružení s uvedeným dnem ukončení členství; členství nelze ukončit se zpětnou platností,
-
 *  c) vyloučením v případě závažného porušení stanov či opakovaného poškození dobrého jména strany, 
 *  d) pozbytím způsobilosti ke členství podle čl. 3 (1).
 
 (6) Zánik členství bere na vědomí předsednictvo příslušného sdružení, nestane-li se tak, republikové předsednictvo. Členství zaniká dnem vzetí na vědomí u právních úkonů člena, dnem právní moci příslušného rozhodnutí u právních jednání dalších osob a právních událostí.
 
-
 (7) Člen strany má právo
 
 *  a) být informován o činnosti strany, zejména všech věcných usneseních orgánů, která se ho přímo týkají, a obsazení orgánů strany,
-
 *  b) svobodně vyjadřovat své názory a obhajovat je, podílet se na projednávání vnitřních záležitostí strany,
-
 *  c) podílet se na utváření politiky strany,
-
 *  d) obracet se na jiné členy a orgány strany se svými návrhy, iniciativami, otázkami a připomínkami,
-
 *  e) účastnit se s hlasovacím právem rozhodování orgánů, jichž je členem,
-
 *  f) být volen a případně být delegován do stranických orgánů a funkcí,
-
-*  g) být navržen za kandidáta pro volby do veřejných funkcí; kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů České pirátské strany.
-
+*  g) být navržen za kandidáta pro volby do veřejných funkcí; kandidatura může vyžadovat splnění dalších kritérií, jako například získání podpory stanoveného počtu členů Slovenské pirátské strany.
 
 (8) Člen je povinen
 
 *  a) podporovat politické cíle strany, zejména základní programové cíle uvedené v čl. 2, 
-
 *  b) dodržovat ustanovení jednacích řádů a dalších vnitřních předpisů, zejména strpět omezení svých práv, které uloží rozhodčí komise za porušení povinností člena.
 
 (9) Na členství ve straně není právní nárok.
-
 
 ##### Čl. 4 Registrovaní příznivci strany
 
@@ -129,65 +105,46 @@
 
 (2) Registrovaní příznivci strany nejsou členy strany ve smyslu ZPS.
 
-(3) Registrovaní příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být voleni do komisí a odborů, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí. Při všech hlasováních mají pouze poradní hlas a nemohou být zvoleni do vedení žádného orgánu strany. Další ustanovení o členech se použijí na registrované příznivce přiměřeně.
+(3) Registrovaní příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být voleni do komisí a jmenováni do odborů, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí. Při všech hlasováních mají pouze poradní hlas a nemohou být zvoleni do vedení žádného orgánu strany. Další ustanovení o členech se použijí na registrované příznivce přiměřeně.
 
 ##  Organizační jednotky a orgány 
 
 ##### Čl. 5 Orgány a organizační jednotky
 
-
 (1) Orgány strany jsou
 
 *  a) celostátní fórum, 
-
 *  b) republikový výbor, 
-
 *  c) republikové předsednictvo, 
-
 *  d) komise a odbory. 
 
 
-(2) Organizační jednotky strany jsou oblastní sdružení vytvořená na územním principu: oblastní sdružení jsou krajská sdružení a místní sdružení. Místní sdružení vyvíjí činnost v rámci příslušného krajského sdružení a je mu podřízeno. Člen podřízeného oblastního sdružení je tak též členem nadřízeného oblastního sdružení.
-
+(2) Organizační jednotky strany jsou oblastní sdružení vytvořená na územním principu.
 
 (3) V oblastních sdruženích jsou orgány strany
 
 *  a) oblastní fórum a
-
 *  b) oblastní předsednictvo.
-
-
 
 ##### Čl. 6 Obecné zásady
 
 (1) Orgány strany si schvalují jednací a případně volební řády, které vydávají v souladu s obvyklými demokratickými zásadami, zejména s ohledem na rovnost hlasů. V jednání orgánů strany se uplatňuje presumpce správnosti.
 
-
-
 (2) Při posuzování platnosti předpisů vydaných různými kompetentními orgány se uplatní zásada hierarchie. Organizační jednotky strany se v mezích vnitřních předpisů spravují samy; mohou vydávat předpisy, podle nichž vykonávají své pravomoci.
-
-
 
 (3) Za řádné oznámení se považuje vážné prohlášení doručené všem adresátům, které nevzbuzuje pochyby o věrohodnosti. Úkony nařízené právními předpisy buďtež řádně oznámeny.
 
-
-
 (4) V řádně oznámeném hlasování a na řádně oznámeném zasedání se orgány usnášejí většinou přítomných, jinak většinou všech členů. Odstranitelná vadnost právního aktu zakládá jeho neplatnost, pouze pokud lze předpokládat, že by odstranění vadnosti vedlo k jinému výsledku.
-
-
 
 (5) Návrhy označené za zásadní vyžadují schválení více než třípětinovou většinou. Přijaté zásadní návrhy lze měnit jen dalším zásadním návrhem. Stanovy lze měnit pouze na základě zásadního návrhu na zasedání.
 
-
-
 (6) Hlasování probíhá pokud možno elektronicky, korespondenčně a s prodlouženou dobou hlasování. Celostátní fórum a oblastní fóra hlasují tajně v osobnostních hlasováních a primárních volbách a kdykoliv o to některý člen požádá; volené orgány hlasují tajně pouze v případě, že by vyznačení jmen mohlo členy vystavit pronásledování kvůli prosazování politiky strany a orgán se na tom před hlasováním usnese.
-
 
 (7) Volební období všech volených funkcí je dvouleté.
 
 (8) Volební období začíná ukončením volební schůze nebo vyhlášením výsledků volby.
 
-(9) Volební období republikového předsednictva kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu České republiky.
+(9) Volební období republikového předsednictva kromě toho končí vždy nejdéle tři měsíce po volbách do Národní rady Slovenské republiky.
 
 (10) Každý člen může zastávat nejvýše jednu z funkcí vedoucího odboru, člena republikového výboru, republikového předsednictva, kontrolní komise nebo rozhodčí komise.
 
@@ -208,93 +165,58 @@
 (4) Oblastní fórum
 
 *  a) volí a odvolává ze svého středu oblastní předsednictvo, 
-
 *  b) provádí politiku strany na oblastní úrovni,
-
 *  c) zřizuje a ruší oblastní komise a odbory,
-
 *  d) ukládá oblastnímu předsednictvu úkoly.
-
 
 (5) Oblastní předsednictvo
 
 *  a) sestává z předsedy a dvou až čtyř místopředsedů,
-
 *  b) odpovídá oblastnímu fóru,
-
 *  c) plní usnesení oblastního fóra, přijímá nové členy,
-
 *  d) shromažďuje návrhy na kandidáty do voleb a zabezpečuje jejich odbornou a politickou přípravu, mj. předsedovi strany navrhuje volebního zmocněnce,
-
 *  e) zabezpečuje primární volby ve své oblasti a určuje, zda v nich mohou hlasovat i registrovaní příznivci; pro tento účel může zřídit oblastní volební komisi.
-
 
 (6) Předseda oblastního sdružení
 
 *  a) svolává minimálně jednou ročně zasedání oblastního fóra,
-
 *  b) zastupuje oblastní sdružení navenek a v jiných orgánech, stanoví-li tak právní předpis.
 
-(7) Oblastní sdružení stejné úrovně mohou zasedat po dvou nebo po třech, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijalo každé sdružení zvlášť. Schůzi řídí člen strany, jejž určí přítomní členové oblastních předsednictev, která spolu zasedají.
+(7) Oblastní orgány stejné úrovně mohou zasedat po více, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijal každý orgán zvlášť. Zasedání zahajuje člen strany, jejž určí přítomní členové oblastních předsednictev orgánů sdružení, která spolu zasedají.
 
 
 ### Orgány
 
 ##### Čl. 8 Celostátní fórum
 
-
 (1) Celostátní fórum je nejvyšším orgánem strany.
-
-
 
 (2) Celostátního fóra se podle možností účastní každý člen strany.
 
-
-
-(3) Zasedání celostátního fóra svolává předseda strany nejméně jednou za rok; nemohou-li se ho z kapacitních důvodů zúčastnit všichni, kdo o to mají zájem, omezí předsednictvo účast s hlasovacím právem na všechny, kdo vykonávají funkci volenou celostátním fórem, členy s volenou funkcí za stranu v ústředních orgánech státní správy a na delegáty z krajů. Předseda strany stanoví s oznámením zasedání i počet delegátů z krajů poměrně k počtu jejich členů tak, aby na celostátním fóru tvořili delegáti z krajů většinu. Kraje vysílají delegáty na základě poměrného zastoupení názorů.
-
-
+(3) Zasedání celostátního fóra svolává předseda strany nejméně jednou za rok.
 
 (4) Předseda strany svolá zasedání celostátního fóra, pokud jej o to požádá republikové předsednictvo nebo republikový výbor.
-
-
 
 (5) Celostátní fórum ve výlučné působnosti
 
 *  a) volí a odvolává republikové předsednictvo,
-
 *  b) volí a odvolává volené členy republikového výboru,
-
 *  c) zřizuje a ruší komise a odbory,
-
 *  d) volí a odvolává členy komise a vedoucího odboru,
-
 *  e) schvaluje změny stanov,
-
 *  f) projednává a schvaluje výroční zprávu předsedy strany,
-
 *  g) projednává a schvaluje výroční finanční zprávu podle §18(1) ZPS,
-
-*  h) mimořádně přezkoumává rozhodnutí orgánu strany, pokud to pětina členů strany navrhne předsedovi do dvou týdnů od právní moci rozhodnutí; od toho okamžiku se vykonatelnost rozhodnutí pozastavuje. Celostátní fórum může do dvou týdnů od pozastavení rozhodnutí zrušit. Jinak se rozhodnutí vykoná.
-
-
+*  h) mimořádně přezkoumává rozhodnutí orgánu strany, pokud to skupina členů strany navrhne předsedovi do dvou týdnů od právní moci rozhodnutí; od toho okamžiku se vykonatelnost rozhodnutí pozastavuje. Celostátní fórum může do dvou týdnů od pozastavení rozhodnutí zrušit vlastním zásadním rozhodnutím. Jinak se rozhodnutí vykoná. Skupinou členů se pro účel tohoto ustanovení rozumí pětina členů strany, pokud celostátní fórum ve svém jednacím řádu nestanoví jinak.
 
 (6) Celostátní fórum dále
 
 *  a) schvaluje další předpisy k úpravě vnitrostranických poměrů,
-
 *  b) ukládá úkoly republikovému předsednictvu a republikovému výboru,
-
 *  c) může projednávat a schvalovat základní programové a ideové dokumenty.
-
-
 
 ##### Čl. 9 Republikový výbor
 
-
-
 (1) Republikový výbor upřesňuje předpisy přijaté celostátním fórem, připravuje podklady pro celostátní fórum a rozhoduje o některých dalších, zejména odborných záležitostech.
-
 
 (2) Republikový výbor se skládá ze čtrnácti členů volených po jednom krajskými fóry a dalších deseti až třiceti členů volených celostátním fórem.
 
@@ -305,27 +227,16 @@
 (5) Republikový výbor zejména
 
 *  a) stanoví výši členských příspěvků a příspěvků registrovaných příznivců a lhůty pro zaplacení,
-
 *  b) navrhuje zřízení komisí a odborů a schvaluje jejich statut,
-
 *  c) schvaluje rozpočtová pravidla, pravidla hospodaření, rozpočet strany, výsledky hospodaření,
-
 *  d) projednává a připravuje zprávy a návrhy pro celostátní fórum,
-
 *  e) může schválit vzorové jednací a volební řády,
-
 *  f) ukládá úkoly předsednictvu,
-
 *  g) projednává a schvaluje základní programové a ideové dokumenty
-
 *  h) projednává vyžádané průběžné zprávy předsednictva,
-
 *  i) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit,
-
 *  j) rozhoduje v dalších celostátních záležitostech, kde by svolání celostátního fóra nebylo účelné nebo možné pro časovou tíseň,
-
 *  k) projednává úkoly vrácené předsednictvem.
-
 
 ##### Čl. 10 Republikové předsednictvo
 
@@ -334,19 +245,12 @@
 (2) Republikové předsednictvo
 
 *  a) je statutárním a výkonným orgánem strany,
-
 *  b) má všeobecnou odpovědnost za stranu a za politické záležitosti mezi zasedáními republikového výboru,
-
 *  c) plní usnesení republikového výboru a celostátního fóra,
-
 *  d) schází se podle potřeby; sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
-
 *  e) předkládá republikovému výboru vlastní návrhy týkající se činnosti strany,
-
 *  f) může řádně vyhlásit nové volby předsednictva oblastního sdružení,
-
 *  g) může v odůvodněných případech před hlasováním o návrhu rozhodnout, že návrh projednávaný republikovým výborem musí být usnesen většinou všech členů republikového výboru,
-
 *  h) může v odůvodněných případech do dvou týdnů od vyhlášení vrátit úkol uložený republikovým výborem, který nebyl schválen jako zásadní návrh.
 
 (3) Členové republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek a orgánů strany s hlasem poradním.
@@ -356,13 +260,10 @@
 (5) Předseda 
 
 *  a) svolává zasedání celostátního fóra, republikového předsednictva a předsedá jim,
-
 *  b) jedná jménem republikového předsednictva navenek,
-
 *  c) může svolat zasedání republikového výboru.
 
 (6) Místopředsedové zastupují předsedu ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
-
 
 ##### Čl. 11 Komise
 
@@ -388,36 +289,25 @@
 
 (4) Vedoucí odboru musí být členem strany a rozhoduje o všech záležitostech odboru. 
 
-
 (5) Vedoucí odboru může jmenovat další členy odboru a pověřovat je výkonem funkcí odboru; republikový výbor má přitom právo veta.
-
-
 
 ##### Čl. 13 Přezkumné orgány
 
 (1) Pokud není uvedeno jinak, fungují kontrolní komise i rozhodčí komise podle čl. 11. Přezkumné orgány jednají podle právních principů běžných v demokratickém soudnictví, zejména dbají na to, aby nikomu nestranily. Ostatní orgány jsou při přezkumu povinny poskytnout součinnost.
 
-
 (2) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a předpisů strany. Kontrolní komise
 
 *  a) vyšetřuje stížnosti na porušení předpisů týkajících se činnosti strany, 
-
 *  b) vyšetřuje kompetenční spory ve straně, které ze zákona nepřísluší jinému orgánu, 
-
 *  c) předkládá důvodné stížnosti spolu s výsledky vyšetřování rozhodčí komisi.
 
 (3) Rozhodčí komise rozhoduje ve stranických sporech mezi fyzickými osobami navzájem, resp. mezi fyzickými osobami a organizačními jednotkami strany nebo orgány. Rozhodčí komise
 
 *  a) rozhoduje vždy na návrh kontrolní komise,
-
 *  b) při projednávání vyšetřených stížností vždy vyslechne účastníky řízení,
-
 *  c) vydává předběžná opatření ve věcech, které nesnesou odkladu, a rozhoduje o omezení práv člena za porušení právních předpisů a o jeho vyloučení,
-
 *  d) rozhoduje o platnosti právního aktu organizační jednotky nebo orgánu strany, mj. zamítnutí přihlášky nebo žádosti o přestup,
-
 *  e) odpovídá na předběžné otázky orgánů strany a jednotlivců, pokud není výklad stanov nebo předpisů jasný; taková odpověď působí při aplikaci silou přesvědčivosti,
-
 *  f) průběžně shromažďuje návrhy na změny stanov.
 
 ## Jednání jménem strany
@@ -447,13 +337,11 @@
 
 ##### Čl. 17 Přechodná a závěrečná ustanovení
 
-(1) Republikové předsednictvo nebo předsednictvo nadřízeného oblastního sdružení
+(1) Republikové předsednictvo
 
 *  a) svolává ustavující fóra oblastních sdružení, která nevznikla nebo zanikla,
-
 *  b) rozhoduje o členství a plní další úkoly oblastního předsednictva v místech, kde žádná oblastní sdružení nepůsobí.
 
 (2) Oblastní sdružení mohou předpisem zřídit vlastní rozhodčí orgán s oblastní působností rozhodující v první instanci; v odvolacích řízeních rozhoduje rozhodčí orgán nadřízené oblasti nebo rozhodčí komise strany.
 
 (3) Orgány zvolené podle předchozích stanov se považují za zvolené podle těchto stanov; pokud někdo zastává neslučitelné funkce a neoznámí republikovému předsednictvu výběr funkce, které se chce vzdát, pozbude funkce, kterou nabyl později.
-
