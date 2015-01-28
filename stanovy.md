@@ -11,7 +11,9 @@
 
 (3) Sídlem Slovenské pirátské strany je Bratislava.
 
-(4) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů (dále jen ZPS), a působí ve Slovenské republice.
+(4) Strana je právnickou osobou založenou podľa zákona o politických stranách a hnutiach č. 85/2005 Z. z. v znení neskorších predpisov (dalej len ZPS), ktorá vzniká zápisom do registra strán vedenom Ministerstvom vnútra Slovenskej republiky.
+
+(5) Strana pôsobí v rámci politického systému Slovenskej republiky a Európskej únie a svoju činnosť vykonáva v súlade s platnými právnymi predpismi a týmito stanovami.
 
 ##### Čl. 2 Poslání a programové cíle 
 
@@ -37,22 +39,20 @@
 
 ##### Čl. 3 Členství 
 
-(1) Členem strany může být občan, který
+(1) Členem strany může osoba způsobilá volit a být volena do orgánů strany dle § 3 odst. (1) ZPS, která
 
-*  a) je starší 18 let, 
-*  b) je plně způsobilý k právním úkonům, 
-*  c) není členem jiné politické strany nebo politického hnutí,
-*  d) souhlasí s programovými cíli České pirátské strany,
-*  e) se zaváže podporovat základní programové cíle uvedené v čl. 2 a
-*  f) nestanovil-li republikový výbor jinak, nebyl ze strany v minulosti vyloučen.
+*  a) není členem jiné politické strany nebo politického hnutí,
+*  b) souhlasí s programovými cíli Slovenské pirátské strany,
+*  c) se zaváže podporovat základní programové cíle uvedené v čl. 2 a
+*  d) nestanovil-li republikový výbor jinak, nebyl ze strany v minulosti vyloučen.
 
 (2) Do přihlášky člen uvede
 
 *  a) osobní údaje, které jsou předmětem evidence, 
-*  b) zda se v minulosti ucházel o členství v České pirátské straně a zda byl jejím členem,
-*  c) zda byl v minulosti členem jiné politické strany nebo politického hnutí včetně časového upřesnění členství v jiné politické straně nebo politickém hnutí, 
+*  b) zda se v minulosti ucházel o členství ve Slovenské pirátské straně a zda byl jejím členem,
+*  c) zda byl v minulosti členem jiné politické strany nebo politického hnutí včetně časového upřesnění členství v jiné politické straně nebo politickém hnutí,
 *  d) zda byl pravomocně odsouzen za úmyslný trestný čin, 
-*  e) zda je trestně stíhán. 
+*  e) zda je trestně stíhán.
 
 (3) Vyplněná a podepsaná přihláška se podá oblastnímu sdružení v místě trvalého pobytu, výjimečně v odůvodněných případech jinému oblastnímu sdružení. O přijetí za člena rozhoduje předsednictvo oblastního sdružení zpravidla za přítomnosti žadatele; zamítnutí přihlášky nutno zdůvodnit. Členství vzniká po zaplacení členského příspěvku. 
 
@@ -322,13 +322,15 @@
 
 ##### Čl. 17 Přechodná a závěrečná ustanovení
 
-(1) Zmocněnec přípravného výboru svolá ustavující zasedání celostátního fóra do 60 dnů od registrace strany. 
+(1) V čase po doručení zaregistrovaných stanov splnomocnencovi prípravného výboru až do konania ustanovujúceho zasedání celostátního fóra vykonáva právomoci a povinnosti predsedu strany, splnomocnenec přípravného výboru. Právne úkony v mene strany, ktoré podľa všeobecne záväzných právnych predpisov môže robiť len štatutárny orgán, však může robit jen na základě jednohlasného pověření přípravným výborem.
 
-(1) Republikové předsednictvo
+(2) Ustanovujúci zasedání celostátního fóra je splnomocnenec přípravného výboru povinný zvolať tak, aby sa konal do 30 dní odo dňa doručenia zaregistrovaných stanov strany.
+
+(3) Za členy strany jsou na ustavujícím zasedání všichni přítomní, kteří splňují podmínky členství (par), odevzdali přípravnému výboru vyplněnou a podepsanou přihlášku (par), případně splnili další podmínky, které přípravný výbor stanovil a řádně vyhlásil nejméně 60 dní před konáním ustavujícícho zasednání. Pokud přípravný výbor stonoví jako podmínku členství složení členského příspěvku na účet strany před konáním ustavujícícho zasedání, nesmí výše tohoto příspěvku přesáhnout 5€.
+
+(4) Republikové předsednictvo
 
 *  a) svolává ustavující fóra oblastních sdružení, která nevznikla nebo zanikla,
 *  b) rozhoduje o členství a plní další úkoly oblastního předsednictva v místech, kde žádná oblastní sdružení nepůsobí.
 
-(2) Oblastní sdružení mohou předpisem zřídit vlastní rozhodčí orgán s oblastní působností rozhodující v první instanci; v odvolacích řízeních rozhoduje rozhodčí orgán nadřízené oblasti nebo rozhodčí komise strany.
-
-(3) Orgány zvolené podle předchozích stanov se považují za zvolené podle těchto stanov; pokud někdo zastává neslučitelné funkce a neoznámí republikovému předsednictvu výběr funkce, které se chce vzdát, pozbude funkce, kterou nabyl později.
+(5) Oblastní sdružení mohou předpisem zřídit vlastní rozhodčí orgán s oblastní působností rozhodující v první instanci; v odvolacích řízeních rozhoduje rozhodčí orgán nadřízené oblasti nebo rozhodčí komise strany.
