@@ -56,7 +56,7 @@
 
 (3) Vyplněná a podepsaná přihláška se podá oblastnímu sdružení v místě trvalého pobytu, výjimečně v odůvodněných případech jinému oblastnímu sdružení. O přijetí za člena rozhoduje předsednictvo oblastního sdružení zpravidla za přítomnosti žadatele; zamítnutí přihlášky nutno zdůvodnit. Členství vzniká po zaplacení členského příspěvku. 
 
-(4) Člen sdružení může v odůvodněných případech hostovat v nejvýše jednom jiném sdružení, které k tomu svolí. Pokud to lze, má hostující člen stejná práva jako řádný člen, vyjma práva hlasovat v personálních věcech.
+(4) Člen sdružení může v odůvodněných případech hostovat v nejvýše jednom jiném sdružení, jehož předsednictvo k tomu svolí. Pokud to lze, má hostující člen stejná práva jako řádný člen, vyjma práva hlasovat v personálních věcech.
 
 (5) Členství zaniká
 
