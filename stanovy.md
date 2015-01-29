@@ -166,7 +166,7 @@
 *  a) svolává minimálně jednou ročně zasedání oblastního fóra,
 *  b) zastupuje oblastní sdružení navenek a v jiných orgánech, stanoví-li tak právní předpis.
 
-(7) Oblastní orgány stejné úrovně mohou zasedat po více, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijal každý orgán zvlášť. Zasedání zahajuje člen strany, jejž určí přítomní členové oblastních předsednictev orgánů sdružení, která spolu zasedají.
+(7) Oblastní orgány stejné úrovně mohou zasedat po více, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijal každý orgán zvlášť. Pro takové jednání se uplatní jednací řád odpovídajícícho orgánu celostátní úrovně přiměřeně, neschválí-li si zasedání vlastní jednací řád.
 
 
 ### Orgány
