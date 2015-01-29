@@ -166,7 +166,9 @@
 *  a) svolává minimálně jednou ročně zasedání oblastního fóra,
 *  b) zastupuje oblastní sdružení navenek a v jiných orgánech, stanoví-li tak právní předpis.
 
-(7) Oblastní orgány stejné úrovně mohou zasedat po více, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijal každý orgán zvlášť. Pro takové jednání se uplatní jednací řád odpovídajícícho orgánu celostátní úrovně přiměřeně, neschválí-li si zasedání vlastní jednací řád.
+(7) Oblastní orgány mohou samostatně nebo ve skupině předkládat návrhy rozhodnutí odpovídajícícm celostátním orgánům. Oblastní fóra mohou předkládat návrhy též republikovému výboru. Celostátní orgán může stanovit ve svém jednacím řádu dodatečné podmínky pro projednání takového návrhu.
+
+(8) Oblastní orgány stejné úrovně mohou zasedat po více, pokud s tím vysloví souhlas; usnesení takto přijatá platí, jakoby je přijal každý orgán zvlášť. Pro takové jednání se uplatní jednací řád odpovídajícícho orgánu celostátní úrovně přiměřeně, neschválí-li si zasedání vlastní jednací řád.
 
 
 ### Orgány
